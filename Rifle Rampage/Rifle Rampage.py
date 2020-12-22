@@ -23,9 +23,7 @@ logo=pygame.image.load('duel.png')
 pygame.display.set_icon(logo)
 
 
-#music
-#mixer.music.load("background.wav")
-#mixer.music.play(-1)
+
 
 
 #gun
