@@ -1,4 +1,8 @@
 # Rifle-Rampage
+Project by Bhavesh Jain
+
+Roll No.: 20110038
+
 
 To run the game open: Rifle Rampage.py
 
